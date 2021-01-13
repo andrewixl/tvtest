@@ -1,5 +1,21 @@
 #EXTM3U url-tvg="http://192.168.0.245:34400/xmltv/xteve.xml" x-tvg-url="http://192.168.0.245:34400/xmltv/xteve.xml"
-#EXTINF:0 channelID="x-ID.4" tvg-chno="4" tvg-name="KOMO 4" tvg-id="4" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19629/s28708_h3_aa.png?w=55" group-title="ABC Regionals",KOMO 4
+#EXTINF:0 group-title="ABC Regionals" tvg-id="4" tvg-name="KOMO 4" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19629/s28708_h3_aa.png?w=55" ,KOMO 4
 http://abc1.6729gg.club:80/andrewixl/Delorean1107/947
-#EXTINF:0 channelID="x-ID.12" tvg-chno="5" tvg-name="KING 5" tvg-id="5" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19630/s28717_h3_aa.png?w=55" group-title="NBC Regionals",KING 5
+#EXTINF:0 group-title="NBC Regionals" tvg-id="5" tvg-name="KING 5" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19630/s28717_h3_aa.png?w=55" ,KING 5
 http://abc1.6729gg.club:80/andrewixl/Delorean1107/320
+#EXTINF:0 group-title="CBS Regionals" tvg-id="7" tvg-name="KIRO 7" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/20290/s28711_h3_aa.png?w=55" ,KIRO 7
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/319
+#EXTINF:0 group-title="USA Regionals" tvg-id="11" tvg-name="CW 11" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21253/s53098_h3_aa.png?w=55" ,CW 11
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/323
+#EXTINF:0 group-title="FOX Regionals" tvg-id="13" tvg-name="Q13 FOX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21254/s28719_h3_aa.png?w=55" ,Q13 FOX
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/324
+#EXTINF:0 group-title="USA" tvg-id="202" tvg-name="CNN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58646/s58646_h3_aa.png?w=55" ,CNN
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/1159
+#EXTINF:0 group-title="USA Sports" tvg-id="206" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32645/s32645_h3_aa.png?w=55" ,ESPN
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/725
+#EXTINF:0 group-title="USA" tvg-id="207" tvg-name="ESPN News" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59976/s59976_h3_aa.png?w=55" ,ESPN News
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/3622
+#EXTINF:0 group-title="USA Sports" tvg-id="208" tvg-name="ESPN U" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60696/s60696_h3_aa.png?w=55" ,ESPN U
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/727
+#EXTINF:0 group-title="USA Sports" tvg-id="209" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45507/s45507_h3_aa.png?w=55" ,ESPN 2
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/726
