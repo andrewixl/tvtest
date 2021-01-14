@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://192.168.0.245:34400/xmltv/xteve.xml" x-tvg-url="http://192.168.0.245:34400/xmltv/xteve.xml"
+#EXTM3U
 #EXTINF:0 group-title="ABC Regionals" tvg-id="4" tvg-name="KOMO 4" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19629/s28708_h3_aa.png?w=55" ,KOMO 4
 http://abc1.6729gg.club:80/andrewixl/Delorean1107/947
 #EXTINF:0 group-title="NBC Regionals" tvg-id="5" tvg-name="KING 5" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19630/s28717_h3_aa.png?w=55" ,KING 5
