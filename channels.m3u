@@ -19,3 +19,29 @@ http://abc1.6729gg.club:80/andrewixl/Delorean1107/3622
 http://abc1.6729gg.club:80/andrewixl/Delorean1107/727
 #EXTINF:0 group-title="USA Sports" tvg-id="209" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45507/s45507_h3_aa.png?w=55" ,ESPN 2
 http://abc1.6729gg.club:80/andrewixl/Delorean1107/726
+#EXTINF:0 group-title="NFL" tvg-id="212" tvg-name="NFL Network" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45399/s45399_h3_aa.png?w=55" ,NFL Network
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/259
+#EXTINF:0 group-title="MLB" tvg-id="213" tvg-name="MLB Network" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62081/s62081_h3_aa.png?w=55" ,MLB Network
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/1235
+#EXTINF:0 group-title="NHL" tvg-id="215" tvg-name="NHL Network" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58690/s58690_h3_aa.png?w=55" ,NHL Network
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/296
+#EXTINF:0 group-title="NBA" tvg-id="216" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45526/s45526_h3_aa.png?w=55" ,NBA TV
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/1201
+#EXTINF:0 group-title="USA Sports" tvg-id="217" tvg-name="Tennis Channel" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60316/s60316_h3_aa.png?w=55" ,Tennis Channel
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/876
+#EXTINF:0 group-title="USA Sports" tvg-id="218" tvg-name="The Golf Channel" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61854/s61854_h3_aa.png?w=55" ,The Golf Channel
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/879
+#EXTINF:0 group-title="USA Sports" tvg-id="219" tvg-name="FOX Sports 1" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/82547/s82547_h3_aa.png?w=55" ,FOX Sports 1
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/732
+#EXTINF:0 group-title="USA Sports" tvg-id="220" tvg-name="NBCSN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48639/s48639_h3_aa.png?w=55" ,NBCSN
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/816
+#EXTINF:0 group-title="USA Sports" tvg-id="221" tvg-name="CBSSN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59250/s59250_h3_aa.png?w=55" ,CBSSN
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/696
+#EXTINF:0 group-title="USA" tvg-id="229" tvg-name="HGTV (West)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49788/s49788_h3_aa.png?w=55" ,HGTV (West)
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/772
+#EXTINF:0 group-title="USA" tvg-id="230" tvg-name="DIY" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67375/s67375_h3_aa.png?w=55" ,DIY
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/718
+#EXTINF:0 group-title="USA" tvg-id="231" tvg-name="Food Network (East)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/50747/s50747_h3_aa.png?w=55" ,Food Network (East)
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/729
+#EXTINF:0 group-title="USA" tvg-id="232" tvg-name="Cooking Channel" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/68065/s68065_h3_aa.png?w=55" ,Cooking Channel
+http://abc1.6729gg.club:80/andrewixl/Delorean1107/704
